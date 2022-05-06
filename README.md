@@ -44,7 +44,7 @@ Programa para exemplo.
   ```
    # pip install -r requirements.txt
    
-   # python enviarmail.py
+   # python insert_tabela.py
 
   ```
 
