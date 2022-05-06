@@ -3,12 +3,12 @@
 ___
 
 <p align="center">
-  <img src="TelaOutlook.JPG" width="300" heigth="300">
+  <img src="python-sql.png" width="300" heigth="300">
 </p>
 
 <p align="center">
   <a href="LICENSE">
-    <img alt="License" src="Screenshot_0_Microsoft-SQL-Server-Express.png">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ ___
 
 ___
 
-<img src="https://github.com/robsonamendonca/python-insert-sql/blob/master/python-sql.png?raw=true" width="1200">
+<img src="https://github.com/robsonamendonca/python-insert-sql/blob/main/Screenshot_0_Microsoft-SQL-Server-Express.png?raw=true" width="1200">
 
 ## :information_source: Sobre
 
